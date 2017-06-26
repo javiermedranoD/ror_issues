@@ -9,7 +9,7 @@ sudo -u postgres createuser -s [username]
 
 Por ejemplo para crear el usuario <code>userx</code> el comando sería:
 
-<code>sudo -u postgres createuser -s jdoe</code>
+<code>sudo -u postgres createuser -s userx</code>
 
 Para asignar una sontraseña a  este usuario, se debe acceder a la línea de comandos de PostgreSQL:
 
